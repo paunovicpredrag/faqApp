@@ -1,4 +1,4 @@
-link to application: https://paunovicpredrag.github.io/faqApp/
+link to application - https://paunovicpredrag.github.io/faqApp/
 
 # Faqapp
 
